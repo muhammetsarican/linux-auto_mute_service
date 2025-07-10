@@ -100,7 +100,7 @@ Paste:
     systemctl --user restart mute-audio.timer
 ```
 
-***Step 6: Check your timers***
+**Step 6: Check your timers**
 
 ```bash
     systemctl --user list-timers
