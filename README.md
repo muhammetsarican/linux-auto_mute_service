@@ -69,7 +69,7 @@ Paste:
 
 ***That’s it! Your script will run at 8:00 AM using DISPLAY=:1.***
 
-***Step 6: Start the service***
+**Step 6: Start the service**
 
 ```bash
     systemctl --user start mute-audio.service
