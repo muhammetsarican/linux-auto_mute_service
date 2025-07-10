@@ -106,5 +106,10 @@ Paste:
     systemctl --user list-timers
 ```
 
+## Feedback
 
+If you have any feedback, please reach out to me at [muhammetsarican.com](mailto:muhammetsarican.info@gmail.com)
 
+## Authors
+
+- [@muhammetsarican](https://www.github.com/muhammetsarican)
